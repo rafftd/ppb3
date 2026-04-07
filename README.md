@@ -1,6 +1,7 @@
 # flutter_application_3
 
-A new Flutter project.
+Nama   : Rafif Thariq Dhiyaulhaqi
+NRP    : 5025231213
 
 ## Getting Started
 
